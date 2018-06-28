@@ -15,7 +15,7 @@
 
 ### Changed
 
-- Update build tools to 26.0.2 and update Dropbox sample to v2 API [\#155](https://github.com/spacecowboy/NoNonsense-FilePicker/pull/155) ([mitchyboy9](https://github.com/mitchyboy9))
+- Update build tools to 27.0.3 and update Dropbox sample to v2 API [\#155](https://github.com/spacecowboy/NoNonsense-FilePicker/pull/155) ([mitchyboy9](https://github.com/mitchyboy9))
 
 ## 4.1.0
 
